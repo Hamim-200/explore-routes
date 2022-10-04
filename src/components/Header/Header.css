@@ -1,0 +1,20 @@
+.header a {
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 2px 5px;
+    background-color: gray;
+    color: white;
+}
+
+.header a:hover {
+    background-color: rgb(46, 166, 205);
+}
+
+.header {
+    margin: 20px;
+}
+
+.active {
+    /* background-color: aquamarine; */
+    border: 2px solid red;
+}
